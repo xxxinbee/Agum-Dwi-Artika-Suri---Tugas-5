@@ -1,0 +1,11 @@
+firstNameContact,lastNameContact,birthdate,email,phone,street1,street2,city,stateProvince,postalCode,country
+John,Doe,1970/01/01,jdoe1@fake.com,8005555551,1 Main St.,Apartment A,Anytown,KS,12345,Canada
+Jane,Smith,1970/01/01,jsmith2@fake.com,8005555552,2 Main St.,Apartment B,Anytown,KS,12346,Canada
+Bob,Johnson,1970/01/01,bjohnson3@fake.com,8005555553,3 Main St.,Apartment C,Anytown,KS,12347,Canada
+Alice,Williams,1970/01/01,alice4@fake.com,8005555554,4 Main St.,Apartment D,Anytown,KS,12348,Canada
+Charlie,Brown,1970/01/01,charlie5@fake.com,8005555555,5 Main St.,Apartment E,Anytown,KS,12349,Canada
+David,White,1970/01/01,david6@fake.com,8005555556,6 Main St.,Apartment F,Anytown,KS,12350,Canada
+Emily,Clark,1970/01/01,emily7@fake.com,8005555557,7 Main St.,Apartment G,Anytown,KS,12351,Canada
+Frank,Adams,1970/01/01,frank8@fake.com,8005555558,8 Main St.,Apartment H,Anytown,KS,12352,Canada
+Grace,Martin,1970/01/01,grace9@fake.com,8005555559,9 Main St.,Apartment I,Anytown,KS,12353,Canada
+Henry,Garcia,1970/01/01,henry10@fake.com,8005555560,10 Main St.,Apartment J,Anytown,KS,12354,Canada
